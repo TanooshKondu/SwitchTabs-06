@@ -3,7 +3,7 @@
 .bg-container {
     background: url("https://i.imgur.com/hJzxNzv.jpg");
     width: 100%;
-    height: 150vh;
+    height: 90%;
     background-size: cover;
     display: flex;
     justify-content: center;
